@@ -1,2 +1,2 @@
 # privacy
-Privacy policy
+Privacy policy for Apps
